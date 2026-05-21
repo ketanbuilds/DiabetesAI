@@ -52,8 +52,6 @@ diabetes_webapp/
 ---
 
 ## 👥 Team
-
-- Mohammad Hasnen Mirza — 21100BTCSDSI09480
 - Ketan Agrawal — 23100BTCSFBI14620
 - Kirtan Jaiswal — 23100BTCSFBI14621
 
