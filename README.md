@@ -55,4 +55,4 @@ diabetes_webapp/
 - Ketan Agrawal — 23100BTCSFBI14620
 - Kirtan Jaiswal — 23100BTCSFBI14621
 
-**Shri Vaishnav Institute of Information Technology, Indore · 2025**
+**Shri Vaishnav Institute of Information Technology, Indore · 2026**
